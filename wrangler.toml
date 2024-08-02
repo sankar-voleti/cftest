@@ -1,0 +1,6 @@
+name = "my-woker"
+main = "src/index.js"
+
+account_id = "acae3aefbd2d7581c4176e28def70b8e"
+workers_dev = true
+compatibility_date = "2024-08-01"
